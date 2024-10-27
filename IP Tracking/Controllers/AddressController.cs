@@ -80,7 +80,7 @@ namespace IP_Tracking.Controllers
             }
         }
 
-        // GET: Address/Create
+        // GET: Address/
 
         private List<string> GetITRSectionSuggestions()
         {
